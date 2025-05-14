@@ -1,5 +1,8 @@
 # ✨ Next.js & Shadcn UI Template ✨
 
+[![Use this template](https://img.shields.io/badge/Use%20this%20template-GitHub-blue)](https://github.com/ramarivera/template-next-shadcn/generate)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/ramarivera/template-next-shadcn&project-name=my-app&repository-name=my-app)
+
 This is a feature-rich [Next.js](https://nextjs.org) project template, supercharged with Shadcn UI, TypeScript, Tailwind CSS, and more, ready for you to build amazing applications! 🚀
 
 ## 🚀 Getting Started
