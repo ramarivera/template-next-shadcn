@@ -30,5 +30,8 @@
         "typescript",
         "typescriptreact",
         "json"
+    ],
+    "cSpell.words": [
+        "Shadcn"
     ]
 }
